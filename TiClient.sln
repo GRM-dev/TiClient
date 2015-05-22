@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TiClient", "TiClient\TiClient.vcxproj", "{3F885EF9-9BB8-4BBD-B9A3-627D2DF2A9EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{FD282EE1-B718-45DF-98CC-AD8D159BF73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F885EF9-9BB8-4BBD-B9A3-627D2DF2A9EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F885EF9-9BB8-4BBD-B9A3-627D2DF2A9EC}.Debug|Win32.Build.0 = Debug|Win32
+		{3F885EF9-9BB8-4BBD-B9A3-627D2DF2A9EC}.Release|Win32.ActiveCfg = Release|Win32
+		{3F885EF9-9BB8-4BBD-B9A3-627D2DF2A9EC}.Release|Win32.Build.0 = Release|Win32
+		{FD282EE1-B718-45DF-98CC-AD8D159BF73E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD282EE1-B718-45DF-98CC-AD8D159BF73E}.Debug|Win32.Build.0 = Debug|Win32
+		{FD282EE1-B718-45DF-98CC-AD8D159BF73E}.Release|Win32.ActiveCfg = Release|Win32
+		{FD282EE1-B718-45DF-98CC-AD8D159BF73E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
